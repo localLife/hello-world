@@ -1,2 +1,2 @@
 # hello-world
-standard introductory coding project.
+Obligatory introductory coding project.
